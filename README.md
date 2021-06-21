@@ -28,8 +28,11 @@ We identified the following trends about the bikes and users in the NYC CityBike
 ### Analysis
 
 **1.** Program usage summary for August 2018
+
     - Total rides taken: **2,344,224 rides**
+    
     - Total bikes used: **13,893 bikes**
+    
     - Total ride time: **2,461,480,527 seconds** (693,745+ hours)
 
 **Picture 1.1: CitiBike NYC overview for August 2018**
