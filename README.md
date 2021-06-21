@@ -1,7 +1,7 @@
 # Bikesharing Analysis for CitiBike
 
 ## Project Overview
-We analyzed CitiBike bike-sharing data from August 2018 in New York City, New York to assess the possibility of launching a similar bike-sharing program in Des Moines, Iowa. 
+We analyzed CitiBike bike-sharing data from August 2018 in New York City, New York to assess the possibility of launching a similar bike-sharing program in Des Moines, Iowa. The data includes information about the user, bikes, locations, and trip duration. By understanding the NYC bikesharing program we can better understand the need and efficacy of starting a similar program in a different metropolitan area.
 
 ## Resources
 Data: 201908-citibike-tripdata-modified.csv
